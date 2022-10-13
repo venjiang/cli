@@ -1,3 +1,2 @@
-test github app
-test github app2
+test check suite
 
